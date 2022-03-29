@@ -1,0 +1,14 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.foodImg {
+  height: auto;
+  width: 30rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.titleHead {
+  text-align: center;
+}
